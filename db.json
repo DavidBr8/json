@@ -438,20 +438,4 @@
     "rating": "18+",
     "isBookmarked": false,
     "isTrending": false
-  },
-  {
-    "title": "Mission: Saturn",
-    "thumbnail": {
-      "regular": {
-        "small": "./assets/thumbnails/mission-saturn/regular/small.jpg",
-        "medium": "./assets/thumbnails/mission-saturn/regular/medium.jpg",
-        "large": "./assets/thumbnails/mission-saturn/regular/large.jpg"
-      }
-    },
-    "year": 2017,
-    "category": "Movie",
-    "rating": "PG",
-    "isBookmarked": true,
-    "isTrending": false
-  }
 ]
