@@ -379,34 +379,4 @@
     "isBookmarked": true,
     "isTrending": false
   },
-  {
-    "title": "Asia in 24 Days",
-    "thumbnail": {
-      "regular": {
-        "small": "./assets/thumbnails/asia-in-24-days/regular/small.jpg",
-        "medium": "./assets/thumbnails/asia-in-24-days/regular/medium.jpg",
-        "large": "./assets/thumbnails/asia-in-24-days/regular/large.jpg"
-      }
-    },
-    "year": 2020,
-    "category": "TV Series",
-    "rating": "PG",
-    "isBookmarked": false,
-    "isTrending": false
-  },
-  {
-    "title": "The Tasty Tour",
-    "thumbnail": {
-      "regular": {
-        "small": "./assets/thumbnails/the-tasty-tour/regular/small.jpg",
-        "medium": "./assets/thumbnails/the-tasty-tour/regular/medium.jpg",
-        "large": "./assets/thumbnails/the-tasty-tour/regular/large.jpg"
-      }
-    },
-    "year": 2016,
-    "category": "TV Series",
-    "rating": "PG",
-    "isBookmarked": false,
-    "isTrending": false
-  },
 ]
