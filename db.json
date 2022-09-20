@@ -364,19 +364,4 @@
     "isBookmarked": false,
     "isTrending": false
   },
-  {
-    "title": "Dogs",
-    "thumbnail": {
-      "regular": {
-        "small": "./assets/thumbnails/dogs/regular/small.jpg",
-        "medium": "./assets/thumbnails/dogs/regular/medium.jpg",
-        "large": "./assets/thumbnails/dogs/regular/large.jpg"
-      }
-    },
-    "year": 2016,
-    "category": "TV Series",
-    "rating": "E",
-    "isBookmarked": true,
-    "isTrending": false
-  },
 ]
